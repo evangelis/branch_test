@@ -7,4 +7,10 @@ This line is added after Commit 1
 
 This line is added after Commit 2 
 
-Adding an  email on branch  master to abc@abc.com (commit 5)
+<<<<<<< HEAD
+Adding an  email on branch  master to zzz@abc.com (commit 5)
+=======
+This line is added on branch devel after Commit 3
+
+Added email  on branch devel : zzz@abc.com
+>>>>>>> devel
